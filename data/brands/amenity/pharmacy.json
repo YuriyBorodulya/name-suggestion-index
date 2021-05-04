@@ -3431,6 +3431,26 @@
       }
     },
     {
+      "displayName": "Аптека Твоєї Родини",
+      "id": "atr-996e17",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": [
+        "аптека твоєї родини",
+        "Аптека твоєї родини",
+	      "атр"
+      ],
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Аптека Твоєї Родини",
+        "brand:wikidata": "Q106424150",
+        "healthcare": "pharmacy",
+        "name": "Аптека Твоєї Родини",
+        "name:ru": "Аптека Твоєї Родини",
+	      "name:uk": "Аптека Твоєї Родини",
+        "name:en": "Pharmacy Your Family"
+      }
+    },
+    {
       "displayName": "海王星辰",
       "id": "chinanepstar-f38123",
       "locationSet": {"include": ["cn"]},
